@@ -1,5 +1,5 @@
 /*******************************************************
- Michael Czumak                                        *
+ ***************                                       *
  COP2250C                                              *
  Homework - Chap 7.12 - Page 296                       *
  Duplicate Elimination                                 *
